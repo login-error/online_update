@@ -10,6 +10,10 @@
          "url": "https://raw.githubusercontent.com/login-error/online_update/main/For-Myanmar.ovpn"
       },
 {
+         "name": "For Wifi ✅",
+         "url": "https://raw.githubusercontent.com/login-error/online_update/main/For%20Wifi.ovpn"
+      },
+{
          "name": "VIP Server ",
          "url": "https://raw.githubusercontent.com/login-error/online_update/main/kha.ovpn"
       },
@@ -22,12 +26,13 @@
          "url": "https://raw.githubusercontent.com/login-error/online_update/main/JAPAN.ovpn"
       }
    ],
-"message":"🚀 Config version - 11 \n📆 Latest update - 13/11/2022\n \n📌What's new 🔥 
+"message":"🚀 Config version - 12 \n📆 Latest update - 13/11/2022\n \n📌What's new 🔥 
 \n• Added Myanmar All Sim ✅
+\n• Added Telenor Myanmar Wifi ✅
 \n•  Added VIP SERVER ✅
 \n•  Added SINGAPORE SERVER ✅
 \n•  Added Japan SERVER ✅
 \n Contact me👤👇\nhttps://t.me/l0gin3rr0r  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 11
+   "version": 12
 }
